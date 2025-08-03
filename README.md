@@ -1,7 +1,9 @@
 🚀 Codexa – Your Ultimate Coding Platform
+
 Codexa is a powerful, AI-driven coding platform built to help you master data structures and algorithms, excel in technical interviews, and compete globally. Whether you're a beginner or a seasoned coder, Codexa provides everything you need to practice, learn, and grow — all in one place.
 
 ✨ Key Features
+
 📚 Extensive Problem Library Solve hundreds of curated DSA problems with detailed explanations and multiple test cases.
 
 🤖 AI-Powered Doubt Assistance Instantly get help with problems using Codexa’s built-in AI assistant powered by Google Generative AI (Gemini).
@@ -33,7 +35,9 @@ Editor: Monaco Editor
 API Client: Axios
 Real-Time Communication: Socket.IO Client
 Build Tool: Vite
+
 ⚙️ Backend
+
 Framework: Express.js
 Database: MongoDB + Mongoose
 Authentication: JWT, bcrypt, Google Auth
@@ -50,6 +54,7 @@ Node.js (v18+)
 npm or yarn
 MongoDB instance (local/cloud)
 Git
+
 ⚙️ Installation
 Clone the repository
 
