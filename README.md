@@ -122,7 +122,7 @@ We ❤️ contributions! Here’s how to contribute:
 
 Fork the repository
 
-Create a feature branch git checkout -b https://github.com/gopaljha16/codexa
+Create a feature branch git checkout -b https://github.com/sanjaykumarmsk/codexa
 
 Commit your changes git commit -m "Add: your feature"
 
