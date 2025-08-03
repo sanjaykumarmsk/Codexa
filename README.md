@@ -25,69 +25,111 @@ Codexa is a powerful, AI-driven coding platform built to help you master data st
 🛠️ Admin Panel Manage users, problems, contests, and platform analytics with a dedicated admin dashboard.
 
 🧪 Tech Stack
+
 🖥️ Frontend
+
 Framework: React.js
+
 UI & Styling: Tailwind CSS, DaisyUI, GSAP, Motion
+
 State Management: Redux Toolkit
+
 Routing: React Router
+
 Forms & Validation: React Hook Form, Zod
+
 Editor: Monaco Editor
+
 API Client: Axios
+
 Real-Time Communication: Socket.IO Client
+
 Build Tool: Vite
 
 ⚙️ Backend
 
 Framework: Express.js
+
 Database: MongoDB + Mongoose
+
 Authentication: JWT, bcrypt, Google Auth
+
 AI Integration: Google Generative AI (Gemini)
+
 File Storage: Cloudinary, Multer
+
 Payment Gateway: Razorpay
-Email Service: Nodemailer
+
+Email Service: Nodemailer 
+
 Caching: Redis
+
 Input Validation: Validator.js
+
 Real-Time: Socket.IO
+
+
 🛠️ Getting Started
+
 🔧 Prerequisites
+
 Node.js (v18+)
+
 npm or yarn
+
 MongoDB instance (local/cloud)
+
 Git
 
+
 ⚙️ Installation
+
 Clone the repository
 
-git clone https://github.com/gopaljha16/codexa.git
+git clone https://github.com/sanjaykumarmsk/codexa.git
+
 cd codexa
+
 Setup Backend
 
 cd backend
+
 npm install
+
 Create a .env file in the backend folder (use .env.example for reference).
 
 Start the server:
 
 npm start
+
 Setup Frontend
 
 cd ../frontend
+
 npm install
+
 Create .env.development and .env.production in the frontend folder.
 
 Start the dev server:
 
 npm run dev
+
 Open your browser: Visit www.codexa.live
 
 🤝 Contributing
+
 We ❤️ contributions! Here’s how to contribute:
 
 Fork the repository
+
 Create a feature branch git checkout -b https://github.com/gopaljha16/codexa
+
 Commit your changes git commit -m "Add: your feature"
+
 Push to your branch git push origin feature/your-feature-name
+
 Create a Pull Request
+
 Please ensure your code is well-tested and clean before submission.
 
 📄 License
